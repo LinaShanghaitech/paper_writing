@@ -1,9 +1,12 @@
-Some tips about how to write an essay
+Some tips about how to write an essay.
 
-Dataset description:
-1. Characteristics
-  The dataset was first created/collected for a task
+Dataset description(eg. Crowdcounting dataset):
+1. Characteristics (specific task, source)
+  The dataset was first created/collected for a task from a video camera ...
 2. Scalibility
-  The dataset consists of 2000 framees of size H x W ...
+  The dataset consists of 2000 frames of size H x W ...
+  The dataest contains a total of 49,885 pedestrain instances and it is split into training and test set.
 3. Annotations
-4. 
+  A region-pf-interest is also provided to ignore unnecessary moving objects such as trees.
+4. Drawbacks
+  This dataset has relatively low density crowd with an average of around 15 people in a frame.
